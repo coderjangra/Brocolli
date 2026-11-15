@@ -1,0 +1,63 @@
+{
+  "title": "Brocolli Privacy Policy",
+  "effective": "16 November 2026",
+  "intro": "Brocolli (\"Broke College Living\") helps you split expenses with friends. It is built to work entirely on your phone. This policy explains what the app reads, what it stores, and what it never does.",
+  "sections": [
+    {
+      "heading": "The short version",
+      "points": [
+        "Everything you enter or Brocolli captures is stored only on your phone.",
+        "Brocolli has no account, no server and no cloud sync in this version. Nothing is uploaded.",
+        "No ads, no analytics, no trackers, no selling or sharing of data. Ever.",
+        "Brocolli never holds, moves or lends money. Payments happen in your own UPI app."
+      ]
+    },
+    {
+      "heading": "SMS and notifications (payment capture)",
+      "points": [
+        "Payment capture is optional and off until you turn it on. The app works fully without it.",
+        "If you allow SMS access, Brocolli reads incoming SMS and, once when you ask, the last 30 days of SMS, to find bank transaction alerts (for example \"Sent Rs.250 from A/c *1234 to ...\").",
+        "If you allow notification access, Brocolli reads notifications from UPI and bank apps (such as Google Pay, PhonePe, Paytm, BHIM and bank apps) and bank alerts shown by your Messages app.",
+        "A filter on your phone keeps only messages from bank and payment senders that describe a payment. Every other message, including personal SMS and OTPs, is discarded immediately and never stored.",
+        "From a kept message Brocolli saves only the payment details: amount, payee name or UPI ID, bank, last 4 digits of the account, transaction reference and time. The raw message text is not kept after it is read.",
+        "Captured payment details never leave your phone and are never sent to us or anyone else.",
+        "You can turn off SMS or notification access at any time in Android settings, pause any bank account in Brocolli's Settings, or tell Brocolli to always ignore a payee."
+      ]
+    },
+    {
+      "heading": "What is stored on your phone",
+      "points": [
+        "Your name and, if you add it, your UPI ID (so friends can pay you).",
+        "Friends and groups you create, with optional UPI IDs you enter for them.",
+        "Expenses, splits, settlements and their edit history.",
+        "Captured payments and the bank accounts they came from (bank name and last 4 digits only)."
+      ]
+    },
+    {
+      "heading": "When data leaves your phone",
+      "points": [
+        "Only when you choose to: sharing a payment request, opening a UPI app to pay, or exporting your data. These go to the app you pick, under that app's own policy.",
+        "Android may include Brocolli's data in your personal device backup if you have backups turned on. That backup is controlled by your Google account, not by us."
+      ]
+    },
+    {
+      "heading": "Your control",
+      "points": [
+        "Export everything as CSV or JSON from Settings → Your data.",
+        "Erase everything from Settings → Your data. Uninstalling the app also deletes all of its data.",
+        "Because nothing is stored on a server, there is no account to delete and nothing for us to hand over."
+      ]
+    },
+    {
+      "heading": "Age",
+      "points": ["Brocolli is meant for people aged 18 and over. It is not directed at children."]
+    },
+    {
+      "heading": "Changes",
+      "points": [
+        "If a future version adds sync across phones or any other feature that sends data off your phone, this policy will be updated first and the app will ask for your consent before anything is uploaded."
+      ]
+    }
+  ],
+  "contact": "Questions or requests: email the developer address listed on Brocolli's Google Play page."
+}

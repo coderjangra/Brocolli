@@ -1,0 +1,7 @@
+{
+  "direction": "debit",
+  "amountPaise": 12000,
+  "payeeRaw": "Campus Canteen",
+  "txnRef": "431533344455",
+  "app": "Paytm"
+}

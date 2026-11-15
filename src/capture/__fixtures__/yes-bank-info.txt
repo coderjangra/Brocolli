@@ -1,0 +1,4 @@
+Source: sms
+Sender: VM-YESBNK
+Text:
+INR 1,200.00 debited from A/c XX7777 on 10-NOV-26. Info: UPI-DOMINOS PIZZA. Avl Bal INR 3,210.00

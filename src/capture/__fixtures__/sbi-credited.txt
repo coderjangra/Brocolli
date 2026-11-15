@@ -1,0 +1,4 @@
+Source: sms
+Sender: VM-SBIUPI
+Text:
+Dear SBI UPI User, ur A/cX4321 credited by Rs300 on 10Nov26 by (Ref no 431599988877)

@@ -1,0 +1,5 @@
+Source: notification
+Sender: Google Pay
+Package: com.google.android.apps.nbu.paisa.user
+Text:
+Payment successful. You paid ₹612.50 to Zomato

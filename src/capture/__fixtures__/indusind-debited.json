@@ -1,0 +1,8 @@
+{
+  "direction": "debit",
+  "amountPaise": 15000,
+  "payeeRaw": "CAMPUS CAFE",
+  "accountLast4": "7710",
+  "txnRef": "631600000123",
+  "bank": "IndusInd"
+}

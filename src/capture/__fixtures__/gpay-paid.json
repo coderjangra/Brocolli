@@ -1,0 +1,6 @@
+{
+  "direction": "debit",
+  "amountPaise": 48000,
+  "payeeRaw": "Chai Point",
+  "app": "GPay"
+}

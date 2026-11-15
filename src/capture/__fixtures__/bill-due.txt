@@ -1,0 +1,4 @@
+Source: sms
+Sender: VM-ICICIB
+Text:
+Your ICICI Bank Credit Card XX8841 bill of Rs 4,520.00 is due on 20-Nov-26. Pay now to avoid charges.

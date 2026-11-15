@@ -1,0 +1,9 @@
+Source: sms
+Sender: VK-AXISBK
+Text:
+INR 150.00 debited
+A/c no. XX1234
+11-11-26, 09:01:44
+UPI/P2A/431588899900/RAHUL SHARMA
+Not you? SMS BLOCKUPI Cust ID to 919951860002
+Axis Bank

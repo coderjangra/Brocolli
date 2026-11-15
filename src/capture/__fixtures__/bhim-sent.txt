@@ -1,0 +1,5 @@
+Source: notification
+Sender: BHIM
+Package: in.org.npci.upiapp
+Text:
+Money sent successfully. ₹50.00 sent to xerox@ybl

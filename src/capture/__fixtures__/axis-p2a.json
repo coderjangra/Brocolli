@@ -1,0 +1,7 @@
+{
+  "direction": "debit",
+  "amountPaise": 15000,
+  "payeeRaw": "RAHUL SHARMA",
+  "txnRef": "431588899900",
+  "bank": "Axis"
+}

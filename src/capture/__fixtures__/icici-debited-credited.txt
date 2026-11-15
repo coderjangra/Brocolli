@@ -1,0 +1,4 @@
+Source: sms
+Sender: AX-ICICIT
+Text:
+ICICI Bank Acct XX884 debited for Rs 238.00 on 10-Nov-26; UBER INDIA credited. UPI:431598765432. Call 18002662 for dispute. SMS BLOCK 884 to 9215676766.

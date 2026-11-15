@@ -1,0 +1,4 @@
+Source: sms
+Sender: VM-HDFCBK
+Text:
+Sent Rs.1,23,456.00 From HDFC Bank A/C *1234 To HOSTEL FEES On 01/11/26 Ref 431500000001

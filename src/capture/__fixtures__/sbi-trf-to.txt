@@ -1,0 +1,4 @@
+Source: sms
+Sender: VM-SBIUPI
+Text:
+Dear UPI user A/C X4321 debited by 74.0 on date 10Nov26 trf to RAPIDO Refno 431500011122. If not u? call 1800111109. -SBI

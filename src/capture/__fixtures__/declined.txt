@@ -1,0 +1,5 @@
+Source: notification
+Sender: PhonePe
+Package: com.phonepe.app
+Text:
+Payment of ₹238 to UBER declined by bank

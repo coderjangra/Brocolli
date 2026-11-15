@@ -1,0 +1,4 @@
+Source: sms
+Sender: AD-PAYTMB
+Text:
+Paid Rs.60 to Sharma Tea Stall from Paytm Payments Bank a/c XX5555. UPI Ref: 431544455566. Not you? Call 01204456456

@@ -1,0 +1,6 @@
+{
+  "direction": "debit",
+  "amountPaise": 12345600,
+  "payeeRaw": "HOSTEL FEES",
+  "txnRef": "431500000001"
+}

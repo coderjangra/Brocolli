@@ -1,0 +1,7 @@
+{
+  "direction": "debit",
+  "amountPaise": 200000,
+  "accountLast4": "4321",
+  "bank": "SBI",
+  "payeeRaw": "ATM withdrawal"
+}

@@ -1,0 +1,4 @@
+Source: sms
+Sender: AD-INDUSB-S
+Text:
+Your IndusInd Bank A/C 2xxxxx7710 debited by Rs 150.00 on 16/11/26 towards UPI/CAMPUS CAFE/631600000123. Avl Bal Rs 2,345.00

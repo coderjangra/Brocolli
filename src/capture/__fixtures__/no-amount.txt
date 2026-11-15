@@ -1,0 +1,5 @@
+Source: notification
+Sender: Google Pay
+Package: com.google.android.apps.nbu.paisa.user
+Text:
+You have a new reward! Tap to scratch.

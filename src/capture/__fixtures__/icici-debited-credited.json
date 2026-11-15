@@ -1,0 +1,8 @@
+{
+  "direction": "debit",
+  "amountPaise": 23800,
+  "payeeRaw": "UBER INDIA",
+  "accountLast4": "884",
+  "txnRef": "431598765432",
+  "bank": "ICICI"
+}

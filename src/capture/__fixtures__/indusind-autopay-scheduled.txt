@@ -1,0 +1,4 @@
+Source: sms
+Sender: AD-INDUSB-S
+Text:
+UPI Autopay for mPokket debit of Rs.811.87 is scheduled on 17/11/2026, UMN XXXX51fe9c@ptyes.Please ensure sufficient balance. -IndusInd Bank

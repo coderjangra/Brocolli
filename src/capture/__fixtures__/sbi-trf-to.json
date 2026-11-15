@@ -1,0 +1,8 @@
+{
+  "direction": "debit",
+  "amountPaise": 7400,
+  "payeeRaw": "RAPIDO",
+  "accountLast4": "4321",
+  "txnRef": "431500011122",
+  "bank": "SBI"
+}

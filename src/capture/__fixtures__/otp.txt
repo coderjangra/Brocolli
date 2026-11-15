@@ -1,0 +1,4 @@
+Source: sms
+Sender: VM-HDFCBK
+Text:
+OTP for txn of Rs.480.00 at CHAI POINT on HDFC Bank card ending 1234 is 482913. Valid for 5 mins. Do not share OTP with anyone.

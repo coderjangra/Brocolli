@@ -1,0 +1,7 @@
+{
+  "direction": "debit",
+  "amountPaise": 120000,
+  "payeeRaw": "DOMINOS PIZZA",
+  "accountLast4": "7777",
+  "bank": "Yes"
+}

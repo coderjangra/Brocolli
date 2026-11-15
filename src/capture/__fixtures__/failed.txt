@@ -1,0 +1,4 @@
+Source: sms
+Sender: AX-ICICIT
+Text:
+Your UPI transaction of Rs 238.00 to UBER INDIA has failed. Any amount debited will be refunded within 3 working days.

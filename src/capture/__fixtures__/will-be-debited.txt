@@ -1,0 +1,4 @@
+Source: sms
+Sender: VM-HDFCBK
+Text:
+Rs.199.00 will be debited from your HDFC Bank A/c *1234 on 15/11/26 towards NETFLIX autopay mandate.

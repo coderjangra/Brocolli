@@ -1,0 +1,6 @@
+{
+  "direction": "debit",
+  "amountPaise": 5000,
+  "payeeVpa": "xerox@ybl",
+  "app": "BHIM"
+}

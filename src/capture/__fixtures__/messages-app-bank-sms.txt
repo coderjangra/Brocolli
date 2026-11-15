@@ -1,0 +1,5 @@
+Source: notification
+Sender: VM-HDFCBK
+Package: com.google.android.apps.messaging
+Text:
+Sent Rs.75.00 From HDFC Bank A/C *1234 To MAGGI POINT On 12/11/26 Ref 431512399999

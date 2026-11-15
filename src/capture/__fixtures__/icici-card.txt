@@ -1,0 +1,4 @@
+Source: sms
+Sender: VM-ICICIB
+Text:
+INR 960.00 spent using ICICI Bank Card XX8841 on 09-Nov-26 on PVR CINEMAS. Avl Limit: INR 45,210.50. If not you, call 1800 2662/SMS BLOCK 8841 to 9215676766

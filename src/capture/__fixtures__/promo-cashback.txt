@@ -1,0 +1,4 @@
+Source: sms
+Sender: VM-PAYTMB
+Text:
+Get Rs.100 cashback on your first electricity bill payment! Use code POWER100. T&C apply.

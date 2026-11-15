@@ -1,0 +1,6 @@
+{
+  "direction": "debit",
+  "amountPaise": 61250,
+  "payeeRaw": "Zomato",
+  "app": "GPay"
+}

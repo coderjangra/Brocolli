@@ -1,0 +1,4 @@
+Source: sms
+Sender: VM-HDFCBK
+Text:
+Received Rs.500.00 in your HDFC Bank A/c *1234 from rahul@okaxis on 10/11/26 Ref 431512345679

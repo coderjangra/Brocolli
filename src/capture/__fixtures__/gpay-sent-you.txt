@@ -1,0 +1,5 @@
+Source: notification
+Sender: Google Pay
+Package: com.google.android.apps.nbu.paisa.user
+Text:
+Aman Gupta sent you ₹200

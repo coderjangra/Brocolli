@@ -1,0 +1,4 @@
+Source: sms
+Sender: AD-SBIINB
+Text:
+Your A/c X4321 balance is Rs.8,450.25 as on 10Nov26.

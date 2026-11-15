@@ -1,0 +1,4 @@
+Source: sms
+Sender: BZ-IDFCFB
+Text:
+Your A/C XXXXXX2468 has been debited by ₹89.00 towards SWIGGY on 10/11/2026. UPI Ref No 431511122233. -IDFC FIRST Bank

@@ -1,0 +1,8 @@
+{
+  "direction": "debit",
+  "amountPaise": 6000,
+  "payeeRaw": "Sharma Tea Stall",
+  "accountLast4": "5555",
+  "txnRef": "431544455566",
+  "bank": "Paytm"
+}

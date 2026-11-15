@@ -1,0 +1,4 @@
+Source: sms
+Sender: AX-ICICIT
+Text:
+Refund of Rs 612.50 from ZOMATO has been credited to your ICICI Bank Acct XX884 on 10-Nov-26.

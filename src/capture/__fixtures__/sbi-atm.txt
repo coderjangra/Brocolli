@@ -1,0 +1,4 @@
+Source: sms
+Sender: AD-SBIINB
+Text:
+Dear Customer, Rs.2000 withdrawn at SBI ATM S1BW000123 from A/cX4321 on 10Nov26 Transaction Number 1234. Available Balance Rs.8,450.25. If not withdrawn by you, call 1800111109

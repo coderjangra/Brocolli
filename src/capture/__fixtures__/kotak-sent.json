@@ -1,0 +1,8 @@
+{
+  "direction": "debit",
+  "amountPaise": 29900,
+  "payeeVpa": "jio@sbi",
+  "accountLast4": "9876",
+  "txnRef": "431566677788",
+  "bank": "Kotak"
+}

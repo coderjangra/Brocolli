@@ -1,0 +1,8 @@
+{
+  "direction": "debit",
+  "amountPaise": 8900,
+  "payeeRaw": "SWIGGY",
+  "accountLast4": "2468",
+  "txnRef": "431511122233",
+  "bank": "IDFC"
+}

@@ -1,0 +1,4 @@
+Source: sms
+Sender: XX-ZZZZZZ
+Text:
+Rs.₹₹ ..,,, INR debited paid to to to @@ 99999999999999999999999 Ref
